@@ -1,0 +1,22 @@
+{
+  "name": "netlify-plugin-jekyll-cache",
+  "version": "1.0.0",
+  "description": "Persist the Jekyll cache between Netlify builds",
+  "main": "index.js",
+  "repository": "https://github.com/Mesomorphic/netlify-plugin-jekyll-cache.git",
+  "keywords": [
+    "netlify",
+    "netlify-plugin",
+    "jekyll"
+  ],
+  "author": {
+    "name": "Matthew Simpson",
+    "email": "matthew@mesomorphic.co.uk",
+    "url": "https://www.mesomorphic.co.uk"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mesomorphic/netlify-plugin-jekyll-cache/issues"
+  },
+  "homepage": "https://github.com/Mesomorphic/netlify-plugin-jekyll-cache#readme"
+}

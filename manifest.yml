@@ -1,0 +1,5 @@
+name: netlify-plugin-jekyll-cache
+inputs:
+  - name: jekyllSource
+    description: The Jekyll source directory
+    default: '.'
