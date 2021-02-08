@@ -4,13 +4,17 @@ Speed up deploys by caching your previous build cache, so you only need to build
 
 ## Installation
 
-You can install the plugin using npm. Add the plugin as a development dependency:
+You can install this plugin directly via the Netlify UI [here](https://app.netlify.com/teams/madhatter2099/plugins/netlify-plugin-jekyll-cache/install).
+
+If you don't want to use the UI then you can install the plugin using npm. Add the plugin as a development dependency:
 
 ```
 npm install -D netlify-plugin-jekyll-cache
 ```
-
-At some point this will be added to Netlify's plugin directory, but for now NPM installation will work fine.
+OR
+```
+yarn add --dev netlify-plugin-jekyll-cache
+```
 
 ## Configuration
 
